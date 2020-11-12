@@ -1,17 +1,19 @@
+
+
+body{
+    text-align: justify;
+    background-color:rgb(196, 198,185);}
+
 h1.florencia{
 
-    color: blue;
+    color: rgb(22, 22, 105);
     text-align: right;
     font-size: 2cm;
     font-family: sans-serif;
+    
 }
 
-p{
 
-    font-family: sans-serif;
-    font-size: 1.5rem;
-
-}
 h2{
 
     background-color: green;
@@ -22,18 +24,45 @@ h2{
 
     
 }
-img.iglesia{
+p{
 
-    
-    margin-right: 10px;
-    margin-bottom: 10px;
+    font-family: sans-serif;
+    font-size: 1.5rem;
+
 }
 
 p.pie{
 
     clear: both;
-    font-size: 80%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 90%;
+    font-family: sans-serif
+
+}
+
+img.iglesia1{
+
+    
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+
+img.iglesia2{
+
+
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+
+
+}
+img.iglesia3{
+
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
 
 }
 
